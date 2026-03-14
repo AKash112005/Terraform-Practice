@@ -1,0 +1,14 @@
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+terraform validate
+terraform fmt
+terraform show
+terraform state list
+terraform state show <resource>
+terraform state rm <resource>
+terraform output
+terraform refresh
+terraform providers
+ 
